@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6b86739bb4246a8b0c090d5d3c10cc0, type: 3}
+  m_Name: BarcodePreviewMaterialPreset
+  m_EditorClassIdentifier: 
+  Default: {fileID: 2100000, guid: dcb864f8c6e3749d99b0370c4154be1e, type: 2}
+  Clock90Left: {fileID: 2100000, guid: 4e31e82f469c9429cb4e7da01725ae71, type: 2}

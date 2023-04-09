@@ -1,0 +1,14 @@
+{
+    "name": "com.openugd.barcode",
+    "rootNamespace": "OpenUGD.Barcode",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

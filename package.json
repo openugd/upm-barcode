@@ -1,0 +1,15 @@
+{
+  "name": "com.openugd.barcode",
+  "displayName": "Barcode",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "author": "https://github.com/dorofiykolya",
+  "description": "Barcode for Unity",
+  "keywords": [
+    "barcode",
+    "qr",
+    "qr-code"
+  ],
+  "dependencies": {},
+  "category": "Unity"
+}
